@@ -15,6 +15,8 @@ The Smart Data Center of `Smart Sensor Fusion Laboratory`_ at `Shanghai Jiao Ton
 
    This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
 
+----------------------------------------------------------------------------------------------------
+
 Contents
 --------
 
@@ -35,7 +37,9 @@ Contents
 
 Publications
 ============
-   :cite:p:`YuanJ24`
+
+.. bibliography::
+   :all:
 
 ----------------------------------------------------------------------------------------------------
 
