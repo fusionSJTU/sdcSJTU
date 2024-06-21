@@ -1,5 +1,19 @@
-This is the documentation of the SJTU Data Center project.
+Welcome to the `Smart Sensor Fusion Laboratory`_ at `Shanghai Jiao Tong University`_.
 
-Read the tutorial of readthedocs here: 
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+.. _Smart Sensor Fusion Laboratory: https://www.fusion.edu.cn
+.. _Shanghai Jiao Tong University: https://www.sjtu.edu.cn
+.. _SSF: https://www.fusion.edu.cn
+.. _SJTU: https://www.sjtu.edu.cn
