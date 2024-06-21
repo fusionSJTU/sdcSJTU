@@ -38,7 +38,7 @@ Contents
 Publications
 ============
 
-.. admonition:: 
+.. note::
 
    T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li Jianxun, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
 
