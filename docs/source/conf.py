@@ -3,11 +3,7 @@
 # -- Project information
 
 project = 'Smart Data Center'
-copyright = 'SSFatSJTU,' \
-    'TingYuan,' \
-    'Steven_Zhang,' \
-    'Xiaojun Chen,' \
-    'Zitai XuYang,' \
+copyright = 'SSFatSJTU'
 
 
 author = 'SSFatSJTU'

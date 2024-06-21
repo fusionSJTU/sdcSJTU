@@ -1,7 +1,7 @@
-Benchmark Metrics
+Metrics Framework
 ===================
 
 .. autosummary::
    :toctree: generated
 
-   Benchmark Metrics
+   Metrics Framework

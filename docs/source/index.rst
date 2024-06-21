@@ -13,7 +13,7 @@ The Smart Data Center of `Smart Sensor Fusion Laboratory`_ at `Shanghai Jiao Ton
 
 .. note::
 
-   This project is a joint effort from **`Smart Sensor Fusion Laboratory`_ and AI Department at SJTU**.
+   This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
 
 Contents
 --------
@@ -37,11 +37,11 @@ Contents
 
 Contributors
 ============
-   Dr. Ting Yuan
-   Dr. Chao Chen
-   Steven Zhang
-   Zitai XuYang
-   Xiaojun Chen
+   `Dr. Ting Yuan` \  
+   Dr. Chao Chen  \
+   Steven Zhang   \
+   Zitai XuYang   \
+   Xiaojun Chen   \
 
 
 
@@ -52,9 +52,9 @@ Contributors
 
 .. _Automatica: https://www.sciencedirect.com/journal/automatica
 .. _AviTec: http://www.avitec.com.cn/avitec/?page_id=30
-.. _Smart Sensor Fusion Laboratory: https://www.fusion.edu.cn
+.. _Smart Sensor Fusion Laboratory: https://fusion.sjtu.edu.cn
 .. _Shanghai Jiao Tong University: https://www.sjtu.edu.cn
-.. _SSF: https://www.fusion.edu.cn
+.. _SSF: https://fusion.sjtu.edu.cn
 .. _SJTU: https://www.sjtu.edu.cn
 
 
