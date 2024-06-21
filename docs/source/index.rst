@@ -33,15 +33,23 @@ Contents
 
 
 
- ----------------------------------------------------------------------------------------------------
+Publications
+============
+   :cite:p:`YuanJ24`
+
+----------------------------------------------------------------------------------------------------
 
 Contributors
 ============
-   `Dr. Ting Yuan` \  
-   Dr. Chao Chen  \
-   Steven Zhang   \
-   Zitai XuYang   \
-   Xiaojun Chen   \
+   Dr. Ting Yuan  
+
+   Dr. Chao Chen
+
+   Steven Zhang   
+
+   Zitai XuYang   
+
+   Xiaojun Chen   
 
 
 
