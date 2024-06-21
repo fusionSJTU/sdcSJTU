@@ -2,19 +2,15 @@
 
 # -- Project information
 
-project = 'FUSION'
-copyright = 'Fusion,' \
+project = 'Smart Data Center'
+copyright = 'SSFatSJTU,' \
     'TingYuan,' \
     'Steven_Zhang,' \
-    'FeiYu,' \
     'Xiaojun Chen,' \
     'Zitai XuYang,' \
-    'Qianguang Zhao,' \
-    'S.K.Park,' \
-    'QuanCui,' \
-    'Hanjin Liu' \
 
-author = 'Fusion'
+
+author = 'SSFatSJTU'
 
 release = '0.1'
 version = '0.0'

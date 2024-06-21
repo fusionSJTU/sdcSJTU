@@ -1,7 +1,7 @@
-Framework
+Cloud Data Center
 ===================
 
 .. autosummary::
    :toctree: generated
 
-   Framework
+   Cloud Data Center

@@ -1,7 +1,7 @@
-Benchmark Metrics
+Component Test
 ===================
 
 .. autosummary::
    :toctree: generated
 
-   Benchmark Metrics
+   Component Test

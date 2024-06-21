@@ -1,7 +1,7 @@
-Team
+Data Analysis
 ===================
 
 .. autosummary::
    :toctree: generated
 
-   Team
+   Data Analysis
