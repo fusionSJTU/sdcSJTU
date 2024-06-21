@@ -32,28 +32,18 @@ Contents
    How to Use <usage> 
    License <license>
  
-
+----------------------------------------------------------------------------------------------------
 
 
 Publications
 ============
 
 .. admonition:: 
+
    T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li Jianxun, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
 
-----------------------------------------------------------------------------------------------------
 
-Contributors
-============
-   Dr. Ting Yuan  
 
-   Dr. Chao Chen
-
-   Steven Zhang   
-
-   Zitai XuYang   
-
-   Xiaojun Chen   
 
 
 
