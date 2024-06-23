@@ -93,7 +93,7 @@ Understanding this flow is crucial for grasping how autonomous driving systems m
 
    Data flow for Car Data Collection.
 
-.. image:: figures/cloudDCDatasetProcessing.png
+.. figure:: figures/cloudDCDatasetProcessing.png
     :width: 100%
     :align: center
 
