@@ -24,21 +24,21 @@ When it comes to **Domain Layer**, where key algorithm and technologies are impl
 
 **The Infrastructure Layer** is responsible for managing the system's hardware and software resources. The Infrastructure Layer includes the following components: Compute, Storage, and Network. Network is now locally distributed network with only a website universally accessible. The whole toolchain include MongoDB and MQTT protocol for data storage and transmission. NAS for data storage and processing. A website is deployed on computing server using React and Flask.
 
-.. image:: figures/cloudDCArch.png
+.. figure:: figures/cloudDCArch.png
     :width: 100%
     :align: center
 
 Dataflow
 ~~~~~~~~
 
-.. image:: figures/cloudDCDataflow.png
+.. figure:: figures/cloudDCDataflow.png
     :width: 100%
     :align: center
 
 Commponents
 ~~~~~~~~~~~
 
-.. image:: figures/cloudDCCompoents.png
+.. figure:: figures/cloudDCCompoents.png
     :width: 100%
     :align: center
 
@@ -49,7 +49,7 @@ it is necessary to compress the data structure. The data structure is designed a
 
 We classify the sensor data with **RadarData,  LidarData, CameraData, LidarData** and **GNSSData**. Each data will be designed suitable for online preview and processing, it is more efficient than compressing raw data. 
 
-.. image:: figures/cloudDCDatastructrue.png
+.. figure:: figures/cloudDCDatastructrue.png
     :width: 100%
     :align: center
 
@@ -102,6 +102,24 @@ Understanding this flow is crucial for grasping how autonomous driving systems m
 Software Design
 ---------------
 
+Usecase Design:
+
+.. figure:: figures/cloudDCUsecases.png
+    :width: 100%
+    :align: center
+
+    Usecase Design.
+
+Based on these Usecase Design, we are able to give UI Design Based on Figma in a Ant Design theme.
+
+You can view the detailed Figma Design in `Figma Design <https://www.figma.com/design/yoqIpLqfLp3QvS3jPIKRTJ/Data-Center-1080P?node-id=0%3A1&t=8ba7JNrWjzykwSbF-1>`_.
+
+
+.. note::
+
+   This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
+
+----------------------------------------------------------------------------------------------------
 
 .. autosummary::
    :toctree: generated
