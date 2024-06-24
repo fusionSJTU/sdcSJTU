@@ -71,7 +71,7 @@ Sensor Information
 
 Radar
 ********
-to be supplemented
+The data collection vehicle is equipped with 8 Continental ARS548 millimeter-wave radars with a 120° field of view and two output channels, Objects and Detection.
 
     .. _sensor-radar:
 
