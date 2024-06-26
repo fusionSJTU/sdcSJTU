@@ -30,6 +30,7 @@ Contents
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage> 
+   Contribution <contributing> 
    License <license>
  
 ----------------------------------------------------------------------------------------------------
