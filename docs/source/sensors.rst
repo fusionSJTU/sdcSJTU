@@ -1,8 +1,8 @@
 Sensor Configuration
 ===================
 
-One of the platforms for 4D autonomous radar sensing systems is a data acquisition and fusion platform for unmanned vehicles.
-We used a triple electric system chassis vehicle with the sensor layout shown in the figure at the Minhang campus of Shanghai Jiaotong University. 
+One of the major aspects for 4D autonomous radar sensing systems is the data acquisition and fusion platform for autonomous vehicles. An autonomous electrical vehicle with the sensor configuration as shown in :ref:`sensor-setup` is used and will be testing at the Minhang campus of Shanghai Jiaotong University. 
+
 The data was collected from a research platform and does not represent the setup used in the FUSION product. For sensor locations, please refer to :ref:`sensor-setup`. we publish data for the following sensors:
 
     .. _sensor-setup:
@@ -13,10 +13,10 @@ The data was collected from a research platform and does not represent the setup
 
         Fig. 01: Data Acquisition Platform
 
-Scene planning
+Data Scenarios
 --------------
 
-Scene SJTU
+Scenario SJTU Minhang Campus
 ********
 For the Fusion dataset, we plan to conduct initial data collection at the Minhang campus of Shanghai Jiaotong University, as refer to :ref:`scene-SJTU`. We will divide the school into several key driving areas, where data collection will be conducted.
 
@@ -27,7 +27,7 @@ We will expand to a wider range of scenarios after obtaining permission from the
         :align: center
         :alt: SJTU-scene
 
-        Fig. 02: Shanghai Jiao Tong University
+        Fig. 02: Shanghai Jiao Tong University Minhang Campus
 
 
 Scene Airport
@@ -118,7 +118,7 @@ to be supplemented
 
         Fig. 09: GNSS
 
-iPC
+IPC
 ********
 to be supplemented
 
@@ -128,7 +128,7 @@ to be supplemented
         :align: center
         :alt: sensor-iPC
 
-        Fig. 10: iPC
+        Fig. 10: IPC
 
 .. note::
 
