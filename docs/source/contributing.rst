@@ -43,6 +43,18 @@ Contributing
    - Work environment setup
    - Usecases design
 
+.. admonition:: Dr. Wenqi Cao   
+
+   - Cloud center implementation
+   - cloud center component design
+
+
+.. admonition:: Fei Yu   
+
+   - Cloud center architect
+
+
+
 
 .. admonition:: Dr. Liming He   
 
