@@ -42,7 +42,11 @@ Contributing
    - Functional focus: RaCam Deep Learning 
    - Work environment setup
    - Usecases design
-
+   - Email: solairechen@sjtu.edu.cn
+  .. raw:: html
+      <div style="float: right; margin-left: 10px;">
+         <img src="./figures/Photo_CXJ.jpg" alt="Image" />
+      </div>
 .. admonition:: Dr. Wenqi Cao   
 
    - Cloud center implementation
