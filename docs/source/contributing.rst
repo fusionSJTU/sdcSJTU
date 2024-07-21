@@ -25,6 +25,12 @@ Contributing
    - Work environment setup
    - Usecases design
 
+   .. figure:: figures/Photo_Steven.jpg
+        :align: right
+        :alt: SJTU-scene
+        :width: 100px
+
+
 
 .. admonition:: Zitai XuYang
 
@@ -43,10 +49,12 @@ Contributing
    - Work environment setup
    - Usecases design
    - Email: solairechen@sjtu.edu.cn
-  .. raw:: html
-      <div style="float: right; margin-left: 10px;">
-         <img src="./figures/Photo_CXJ.jpg" alt="Image" />
-      </div>
+
+   .. figure:: figures/Photo_CXJ.jpg
+        :align: right
+        :alt: SJTU-scene
+        :width: 100px
+
 .. admonition:: Dr. Wenqi Cao   
 
    - Cloud center implementation
