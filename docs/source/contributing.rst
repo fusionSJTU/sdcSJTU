@@ -19,41 +19,56 @@ Contributing
 
 .. admonition:: Steven Zhang 
 
+   .. container:: right-aligned
+
+      .. figure:: figures/Photo_Steven.jpg
+         :align: right
+         :alt: SJTU-scene
+         :width: 100px
+
+
+
    - Sensor setup 
    - Lidar system and associated data processing (soft sync., calibration and data storage)
    - Functional focus: Fusion Map
    - Work environment setup
    - Usecases design
-
-   .. figure:: figures/Photo_Steven.jpg
-        :align: right
-        :alt: SJTU-scene
-        :width: 100px
-
+   - Email: steven_zhang@sjtu.edu.cn
+  
 
 
 .. admonition:: Zitai XuYang
+   
+   .. container:: right-aligned
+
+      .. figure:: figures/Photo_XYZT.jpg
+         :align: right
+         :alt: SJTU-scene
+         :width: 100px
 
    - Sensor setup and 3D modeling for sensor hub
    - Camera system and associated data processing (hard sync., calibration and data storage)
    - Functional focus: LiCam Deep Learning
    - Work environment setup
    - Usecases design
+   - Email: Zero_XYZT@sjtu.edu.cn
 
       
-.. admonition:: Xiaojun Chen   
+.. admonition:: Xiaojun Chen
+
+   .. container:: right-aligned
+
+      .. figure:: figures/Photo_CXJ.jpg
+         :align: right
+         :alt: SJTU-scene
+         :width: 100px
 
    - Sensor setup and 3D modeling for sensor hub
-   - Radar system and asociated data processing (soft sync., calibration and data storage)
-   - Functional focus: RaCam Deep Learning 
+   - Radar system and associated data processing (soft sync., calibration, and data storage)
+   - Functional focus: RaCam Deep Learning
    - Work environment setup
-   - Usecases design
+   - Use cases design
    - Email: solairechen@sjtu.edu.cn
-
-   .. figure:: figures/Photo_CXJ.jpg
-        :align: right
-        :alt: SJTU-scene
-        :width: 100px
 
 .. admonition:: Dr. Wenqi Cao   
 
