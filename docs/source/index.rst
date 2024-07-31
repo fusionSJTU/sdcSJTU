@@ -66,14 +66,6 @@ Partners
 .. image:: figures/SSF_logo.png
    :width: 49 %
 
-
-
-.. image:: figures/ISIF.png
-   :alt: Fusion
-   :width: 49%
-.. image:: figures/ieee-logo.png
-   :alt: Fusion
-   :width: 49%
 .. image:: figures/rayz.png
    :alt: Automatica
    :width: 49%
