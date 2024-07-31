@@ -44,7 +44,8 @@ Publications
    T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
 
 
-
+.. raw:: html
+   <video controls src="_static/2024Clip.mp4"></video>
 
 
 
@@ -60,11 +61,12 @@ Partners
    :alt: AviTec
    :width: 100%
 
+.. image:: figures/SSF_logo.png
+   :width: 49 %
+
 .. image:: figures/ai_logo.png
    :width: 49 %
 
-.. image:: figures/SSF_logo.png
-   :width: 49 %
 
 .. image:: figures/rayz.png
    :alt: Automatica
