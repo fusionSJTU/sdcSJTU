@@ -47,14 +47,18 @@ Publications
 ----------------------------------------------------------------------------------------------------
 
 .. raw:: html
-   <video controls src="_static/2024Clip.mp4" width="620" height="620"/></video>
+   <video width="320" height="240" controls>
+   <source src="_static/2024Clip.mp4" type="video/mp4">
+   </video>
 
 
 ----------------------------------------------------------------------------------------------------
 
 .. video:: _static/2024Clip.mp4
-   :align: center
-   :alt: Sensor Configuration
+   :width: 500
+   :height: 300
+   :autoplay:
+   :nocontrols:
 
 
 ----------------------------------------------------------------------------------------------------

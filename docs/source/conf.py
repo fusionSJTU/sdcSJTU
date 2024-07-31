@@ -20,6 +20,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.video',
 ]
 
 intersphinx_mapping = {
@@ -41,4 +42,6 @@ epub_show_urls = 'footnote'
 
 
 bibtex_bibfiles = ['refs.bib']
+
+
 
