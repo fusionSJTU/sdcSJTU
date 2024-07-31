@@ -45,7 +45,7 @@ Publications
 
 
 .. raw:: html
-   <video controls src="_static/2024Clip.mp4"></video>
+   <video controls src="2024Clip.mp4"></video>
 
 
 
