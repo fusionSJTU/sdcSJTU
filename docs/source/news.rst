@@ -13,8 +13,12 @@ News
 
 
 
+    .. figure:: figures/group_photo.jpg
+        :align: center
+        :alt: group-photo
 
-.. admonition:: Related Videos
+        Fig. 01: Group Photo of the Car
+    .. admonition:: Related Videos
 
    .. raw:: html
 
