@@ -24,7 +24,7 @@ Contents
 .. toctree::
 
    Introduction <intro>
-   News <news>
+   Timeline <timeline>
    Sensor Setup <sensors>
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
@@ -32,6 +32,7 @@ Contents
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage> 
+   Contribution <contributing>
    License <license>
  
 ----------------------------------------------------------------------------------------------------
