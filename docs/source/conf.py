@@ -43,4 +43,25 @@ epub_show_urls = 'footnote'
 bibtex_bibfiles = ['refs.bib']
 
 
+#used for videos
+import os
+import shutil
 
+def setup(app):
+    app.connect('build-finished', copy_videos)
+
+def copy_videos(app, exception):
+    if exception is None:  # build succeeded
+        # Define the source and destination paths
+        source_video_path = os.path.join(app.srcdir, 'videos')
+        dest_video_path = os.path.join(app.outdir, '_static', 'videos')
+        
+        # Create destination directory if it does not exist
+        if not os.path.exists(dest_video_path):
+            os.makedirs(dest_video_path)
+        
+        # Copy video files from source to destination
+        for file_name in os.listdir(source_video_path):
+            full_file_name = os.path.join(source_video_path, file_name)
+            if os.path.isfile(full_file_name):
+                shutil.copy(full_file_name, dest_video_path)

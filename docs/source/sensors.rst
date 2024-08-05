@@ -54,7 +54,6 @@ The sensors are arranged in layers to reduce overall interference, the strong an
     :header-rows: 0
     :align: center
 
-
     * - .. figure:: figures/CarSetupFront.png
           :align: center
           :alt: car-setup-f
@@ -65,6 +64,12 @@ The sensors are arranged in layers to reduce overall interference, the strong an
           :alt: car-setup-b
 
           Fig. 05: Car Setup Back
+
+.. figure:: figures/group_photo.jpg
+    :align: center
+    :alt: group-photo
+
+    Fig. 06: Group Photo of the Car
 
 Sensor Information
 ------------------
@@ -79,7 +84,7 @@ The data collection vehicle is equipped with 8 Continental ARS548 millimeter-wav
         :align: center
         :alt: sensor-Radar
 
-        Fig. 06: Radar
+        Fig. 07: Radar
 
 Lidar
 ********
@@ -91,7 +96,7 @@ We used Innovusion's solid-state LiDAR as the LiDAR data input, with each sensor
         :align: center
         :alt: sensor-Lidar
 
-        Fig. 07: Lidar
+        Fig. 08: Lidar
 
 Camera
 ********
@@ -104,7 +109,7 @@ where four cameras are wide-angle 120-degree cameras, and four are 60-degree cam
         :align: center
         :alt: sensor-Camera
 
-        Fig. 08: Camera
+        Fig. 09: Camera
 
 GNSS
 ********
@@ -116,7 +121,7 @@ to be supplemented
         :align: center
         :alt: sensor-GNSS
 
-        Fig. 09: GNSS
+        Fig. 10: GNSS
 
 IPC
 ********
@@ -128,7 +133,7 @@ to be supplemented
         :align: center
         :alt: sensor-iPC
 
-        Fig. 10: IPC
+        Fig. 11: IPC
 
 .. note::
 

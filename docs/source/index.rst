@@ -3,6 +3,7 @@ Welcome to SJTU Smart Data Center!
 
 The Smart Data Center of `Smart Sensor Fusion Laboratory`_ at `Shanghai Jiao Tong University`_ (SDC of `SSF`_ at `SJTU`_) presents a fusion center featuring specially 4D autonomotive Radar perception systems. Moverover, the SDC provides a set of tools for data analysis and algorithm test, as well as a metrics framework for performance evaluation and functionality assessment.
 
+    .. _sensor-configuration:
 
     .. figure:: figures/figSensorConfigSystem.png
         :align: center
@@ -23,6 +24,7 @@ Contents
 .. toctree::
 
    Introduction <intro>
+   News <news>
    Sensor Setup <sensors>
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
@@ -30,7 +32,6 @@ Contents
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage> 
-   Contribution <contributing> 
    License <license>
  
 ----------------------------------------------------------------------------------------------------
@@ -41,52 +42,16 @@ Publications
 
 .. note::
 
-   T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
+   T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li Jianxun, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
+
+
+
+
+
+
 
 
 ----------------------------------------------------------------------------------------------------
-
-.. raw:: html
-   <video width="320" height="240" controls>
-   <source src="_static/2024Clip.mp4" type="video/mp4">
-   </video>
-
-
-----------------------------------------------------------------------------------------------------
-
-.. video:: _static/2024Clip.mp4
-   :width: 500
-   :height: 300
-   :autoplay:
-   :nocontrols:
-
-
-----------------------------------------------------------------------------------------------------
-
-Partners
-========
-
-.. figure:: figures/SJTU_logo.png
-   :align: center
-   :alt: AviTec
-   :width: 100%
-
-.. image:: figures/SSF_logo.png
-   :width: 49 %
-
-.. image:: figures/ai_logo.png
-   :width: 49 %
-
-
-.. image:: figures/rayz.png
-   :alt: Automatica
-   :width: 49%
-
-.. image:: figures/AVL_Logo.jpg
-   :alt: Fusion
-   :width: 49%
-
-
 
 
 .. _Automatica: https://www.sciencedirect.com/journal/automatica
