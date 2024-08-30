@@ -1,17 +1,10 @@
-Papers
-===================
+Publications
+============
 
+.. note::
 
-.. topic:: Title of Paper
-    
-    *author1, author2* CVPR 2024 [`paper <http://paper.link/>`_][`code <http://code.link/>`_]
+   T. Yuan, C. Chen, S. Zhang, Z. Xuyang, X. Chen, L. He, J. Li Jianxun, `Smart Data Center for Automotive 4D Radar Perception Systems`, drafting, 2024. 
 
-
-
-
-
-Patents
-===================
 
 
 .. topic:: **一种模块化设计的多模态数据采集平台**
